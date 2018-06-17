@@ -1,8 +1,8 @@
 # DONE UPDATE PYTHON3
 ### THRIFT 0.10.0
-# 1 selfbot 3 pro
+# 1 selfbot protect
 V2.1 editor_::
-Prankbots
+
 ## WORKING
 ```
 apt-get install python3-pip

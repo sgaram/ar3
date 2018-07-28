@@ -7,7 +7,7 @@ from multiprocessing import Pool, Process
 from humanfriendly import format_timespan, format_size, format_number, format_length
 import time, random, asyncio, timeit, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, urllib, urllib.parse, ast, pafy, youtube_dl
 botStart = time.time()
-arif = LineClient(authToken='EtuboDCPuiCsjE8NbWnf.zsjptOGse28bSLj1PuTA7W.8VoT5lyY09XZsqqgTl8yDnNmN9wCrrYb9StvordnqII=')
+arif = LineClient(authToken='EvdsUhs2RCW60RVftAnf.K9hUseF6j4f/WE5DLTHHBW.aiRtAaup010QtKAlnsahVfxbh/QQlmElhqFc9zyegzg=')
 arif.log("Auth Token : " + str(arif.authToken))
 channel = LineChannel(arif)
 arif.log("Channel Access Token : " + str(channel.channelAccessToken))
